@@ -2,8 +2,8 @@ package repl
 
 import (
 	"bufio"
-	"buildInterpreter/src/lexer"
-	"buildInterpreter/src/token"
+	"MonkeyLanguage/src/lexer"
+	"MonkeyLanguage/src/token"
 	"fmt"
 	"io"
 )

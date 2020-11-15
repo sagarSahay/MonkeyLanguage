@@ -1,7 +1,7 @@
 package main
 
 import (
-	"buildInterpreter/src/repl"
+	"MonkeyLanguage/src/repl"
 	"fmt"
 	"os"
 	user2 "os/user"
